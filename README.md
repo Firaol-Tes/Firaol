@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there, I'm [Your Name]!</h1>
+<h1 align="center">👋 Hi there, I'm Firaol Tesfaye!</h1>
 <h3 align="center">Backend Software Engineer | ALX Learner | Open Source Enthusiast</h3>
 
 ---
@@ -7,12 +7,12 @@
 
 I am a dedicated learner of the **ALX Software Engineering Program**, driven by a passion for building robust, scalable, and secure backend systems.
 
-I got into software engineering because **[insert your reason]**
+I got into software engineering because **I love coding**
 
-What inspires me is **[insert what inspires you]**
+What inspires me is **My fellow friends**
 
 🚀 **My Vision**  
-I aim to **[insert your vision]**
+I aim to **be the best Engineer ever known**
 
 💡 **I’d like to work on**  
 - Distributed systems  
@@ -55,10 +55,9 @@ I aim to **[insert your vision]**
 
 📫 **Get in Touch**
 
-- LinkedIn: [your-linkedin-profile]  
-- Email: [your-email]  
-- Portfolio: [your-portfolio-link]  
-- Dev Blog: [your-blog]  
+- LinkedIn: www.linkedin.com/in/fira-tes 
+- Email: ftesfaye24@gmail.com
+
 
 ---
 
